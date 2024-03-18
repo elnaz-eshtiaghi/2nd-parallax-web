@@ -2,7 +2,8 @@
 
 **If you have a lot of information to display on your site, why don't you use my project**
 
-![Screenshot_2024_03_16-1](https://github.com/elnaz-eshtiaghi/memory-game/assets/146030206/08d71587-b5e7-443c-b11a-1f33f031ef86)
+![Screenshot_2024_03_18-1](https://github.com/elnaz-eshtiaghi/2nd-parallax-web/assets/146030206/2f7950e1-38d6-4364-8503-58aff7a74c6e)
+
 - [Demo Project]( https://elnaz-eshtiaghi.github.io/personal-web/)
 
 - Developed by elnaz eshtiaghi
