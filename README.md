@@ -4,7 +4,7 @@
 
 ![Screenshot_2024_03_18-1](https://github.com/elnaz-eshtiaghi/2nd-parallax-web/assets/146030206/2f7950e1-38d6-4364-8503-58aff7a74c6e)
 
-- [Demo Project]( https://elnaz-eshtiaghi.github.io/personal-web/)
+- [Demo Project]( https://elnaz-eshtiaghi.github.io/2nd-parallax-web/)
 
 - Developed by elnaz eshtiaghi
 
